@@ -1,0 +1,17 @@
+{
+  "name": "tarobar",
+  "owner": {
+    "name": "june0216",
+    "url": "https://github.com/june0216"
+  },
+  "metadata": {
+    "description": "바텐더 에이닷의 타로 주점 롤플레이 플러그인"
+  },
+  "plugins": [
+    {
+      "name": "tarobar",
+      "source": "./",
+      "description": "타로 주점 '타로바' 롤플레이 플러그인"
+    }
+  ]
+}
